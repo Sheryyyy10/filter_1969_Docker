@@ -1,0 +1,6 @@
+deepface
+runpod
+django
+djangorestframework
+requests
+tf-keras
